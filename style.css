@@ -1,0 +1,11 @@
+H1 {font-size:20pt;color:darkgreen;font-family:Arial;text-align:center; border:8px ridge darkred}
+H3 {font-family:Arial;font-size:16pt;color:darkred;padding:0px 20px;text-decoration-line: underline}
+H4 {font-family:Arial;font-size:12pt;color:darkred;padding:0px 20px;text-decoration-line: underline}
+ul {font-family:Times}
+img {height:160px;width:200;padding:0px 50px}
+BODY {background-color:lightgrey;border: 8px ridge darkgreen}
+Caption {caption-side: top; font-family:Times; font-size:15pt; color:darkred}
+Table {padding:10px;background-color:darkgreen; border-color:darkred; text-align:left}
+table.center {margin-left:auto;margin-right:auto}
+TR {background-color:lightgrey}
+P {padding:0px 20px; text-indent:50px}
